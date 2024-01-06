@@ -49,9 +49,7 @@
 				<source>17</source>
 				<target>17</target>
 				  <excludes><exclude>
-					  <groupId>org.projectlombok</groupId>
-					  <artifactId>lombok</artifactId>
-						</exclude>
+				  </exclude>
 					</excludes>
 				</configuration>
 			</plugin>
